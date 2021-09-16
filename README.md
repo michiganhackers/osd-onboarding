@@ -19,3 +19,4 @@ Onboarding Project for the Open-Source Development Team
 - Hello! This is a contribution from Marco.
 - Updated `hello.cpp` :)
 - Where am I? How Did i Get HeeRe??-
+- JS is the worst language!
