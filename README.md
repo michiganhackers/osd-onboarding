@@ -28,3 +28,4 @@ Onboarding Project for the Open-Source Development Team
 - I use arch btw - agam
 - :]
 - Pineapples on pizza is just OK
+- Anyone have a laptop charger?
