@@ -23,6 +23,8 @@ Onboarding Project for the Open-Source Development Team
 - Updated `hello.cpp` :)
 - What's up
 - Where am I? How Did i Get HeeRe??-
+- JS is the worst language!
+- Pineapples on pizza is just OK
 - I use arch btw - agam
 - :]
 - Pineapples on pizza is just OK
