@@ -20,3 +20,4 @@ Onboarding Project for the Open-Source Development Team
 - Updated `hello.cpp` :)
 - Where am I? How Did i Get HeeRe??-
 - JS is the worst language!
+- Pineapples on pizza is just OK
