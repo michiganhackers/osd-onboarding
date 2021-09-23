@@ -31,3 +31,4 @@ Onboarding Project for the Open-Source Development Team
 - Anyone have a laptop charger?
 - Here we go again...
 - Hi!
+- Check out my repos :P
