@@ -30,4 +30,5 @@ Onboarding Project for the Open-Source Development Team
 - Pineapples on pizza is just OK
 - Anyone have a laptop charger?
 - Here we go again...
+- Hi!
 - Check out my repos :P
