@@ -13,7 +13,13 @@ void print_args(char* args[], int num_args) {
 int main(int argc, char *argv[]) {
 	std::cout << "Hello, world! Hamilton is amazing\n";
 	std::cout << "Learn more: https://www.youtube.com/watch?v=dQw4w9WgXcQ\n";
-
-        print_args(argv, argc);
+    std::cout << R"(
+　　 Λ＿Λ
+　 ◯（´∀｀）◯
+　  ＼　　 ／
+　　 |⌒I、│　
+　  （＿）ノ
+     　 ∪
+    )" << '\n';
+    print_args(argv, argc);
 }
-
