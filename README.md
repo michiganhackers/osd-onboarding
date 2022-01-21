@@ -45,3 +45,4 @@ Onboarding Project for the Open-Source Development Team
 - Nobody here knows I bench 225
 - The person above me doesn't bench 225
 - Im pushin p
+- Uninstall McAfee
