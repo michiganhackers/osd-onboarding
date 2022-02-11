@@ -50,3 +50,4 @@ Onboarding Project for the Open-Source Development Team
 - hello
 - hola
 - \^O^/
+- TS >> js
