@@ -1,3 +1,7 @@
+# Mac stuff
+.DS_Store
+
 # Output files
 *.log
 *.out
+hello
